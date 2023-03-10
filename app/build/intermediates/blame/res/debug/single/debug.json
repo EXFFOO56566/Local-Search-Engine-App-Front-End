@@ -1,0 +1,950 @@
+[
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_line_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\line_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_10.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_10.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_default.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_option_menu_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\option_menu_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_small.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_small.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_assert_06.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_bg_assert_06.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_39.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_39.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_company_main.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\activity_company_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_14.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_14.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_company_list.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\company_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_step_3_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\step_3_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_13.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_13.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_company_list.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\company_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_3.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_contacts_17.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_contacts_17.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bg_hover.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_bg_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_2_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_2_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_bg_01.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_bg_01.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_review_hover_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_review_hover_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_2_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_2_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_post_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\add_post_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_row_footer.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\review_row_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_company_details.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\company_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_page_icon_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\sb_page_icon_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_assert_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_bg_assert_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_post.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_img.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_img.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_company_main.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\company_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_textbox_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_textbox_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_37.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_37.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_4.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_4.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_icons_04.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_icons_04.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_home.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_review_close_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\review_close_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food_ratingbar_full_filled.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\food_ratingbar_full_filled.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_s2_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_s2_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_1.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_1.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_company_list.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\row_company_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_enter.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\animation_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_hover_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_hover_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_2_14.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_2_14.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_small.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_option_menu_04.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\option_menu_04.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_assert_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_bg_assert_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_min_icon_08.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\min_icon_08.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_btn_08.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\search_btn_08.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_animation_leave.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\animation_leave.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\logo_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_gray_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\bg_gray_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_company_list_3.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\company_list_3.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_icons_21.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_icons_21.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_bg_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_bg_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location_red.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\location_red.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_post3.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\add_post3.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_add_post.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_details_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\details_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_39.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_39.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_6.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_6.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_search_icon.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_search_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_page_icon_01.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\sb_page_icon_01.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_details.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\news_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tag_bg_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\tag_bg_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_company_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\search_company_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_logo.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\no_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_inquiry.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_review_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_review_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_27.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_27.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_info.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_step_1_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\step_1_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_assert_088.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_bg_assert_088.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_small_hover.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_small_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_review_star_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\review_star_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_success.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\success.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_category.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\row_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_in.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_btn_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_progressbar_view.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\progressbar_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\app_icon_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_41.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_41.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_review_btn.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\review_btn.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food_ratingbar_full_empty.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\food_ratingbar_full_empty.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_add_post2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_add_post2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_icon_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_about__tiles_store.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\activity_about__tiles_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_25.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_25.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_icons_23.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_icons_23.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text_assert_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\text_assert_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_hover_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_back_hover_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_41.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_41.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_bg_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_bg_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_step_2_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\step_2_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_01.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_01.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_raw_list_item.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\raw_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_review_close.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_review_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_bg_assert_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_bg_assert_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fail.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\fail.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_search_btn_hover_08.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\search_btn_hover_08.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_detail_slider_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\detail_slider_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_5.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_5.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_icons_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\tab_icons_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_inquiry.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\inquiry.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\color_color.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\color\\color.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selector_maincategory.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\selector_maincategory.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_search_hover_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_search_hover_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_47.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_47.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_checkbox_selector.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\checkbox_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_post_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\add_post_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_left_out.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_min_icon_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\min_icon_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_menu_btn.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_menu_btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_about_icon_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\about_icon_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_icon_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\header_icon_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_company_list_bottom2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_company_list_bottom2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_location_blue.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\location_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_app_icon_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\app_icon_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_text_address_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\text_address_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_food_rating_bar_full.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\food_rating_bar_full.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_indicator.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_35.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_35.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_contacts_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_contacts_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_floor.jpg.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\floor.jpg"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_29.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_29.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_icons_08.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\tab_icons_08.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_detail_icon_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\contact_detail_icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_vitrified.jpg.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\vitrified.jpg"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_company_list_bottom3.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_company_list_bottom3.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_post.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\add_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_review_close_hover_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\review_close_hover_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_categories.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_roundercorner.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\roundercorner.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\button_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_out.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_search_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_search_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_post_hover_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\add_post_hover_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_23.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_23.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_info_hover.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_info_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_textbox.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_textbox.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_add_post3.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\add_post3.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_contacts_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_contacts_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_41.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_41.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_post2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\activity_add_post2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_default_hover.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_default_hover.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_no_thumb.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\no_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_37.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_37.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_default.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_default.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play_hover_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\play_hover_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_hover_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_hover_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_27.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_27.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_company_list_bottom1.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_company_list_bottom1.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_search.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_buttom.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_buttom.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_loader.gif.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\loader.gif"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_arrow.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_info.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_9.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_9.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_store_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_store_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_53.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_53.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_store_06.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\icon_store_06.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_company_details.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\company_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_categories.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_13.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_13.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_menu_btn_hover_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\menu_btn_hover_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_back.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_17.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_17.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_maincategory_row.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\maincategory_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_min_icon_14.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\min_icon_14.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_company_list_2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\company_list_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_review.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_review.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_01.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_01.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_detail_botttom_icons_hover_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_detail_botttom_icons_hover_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_selector_button.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\selector_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_bg_04.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_bg_04.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_news.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\news.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_7.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_7.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_reg_assets_10.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\reg_assets_10.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_btn_search.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_btn_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_store_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\store_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_background.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_thumb_bg.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\thumb_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_show_route.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\show_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sanitary.jpg.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\sanitary.jpg"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_play_store.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_play_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_23.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_23.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml_app_store.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\xml_app_store.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\anim_right_in.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\anim\\right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_sb_page_icon_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\sb_page_icon_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_header1.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_header1.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_icon_hover_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\header_icon_hover_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_icon_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\header_icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_04.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_04.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_button_hover_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\button_hover_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_play_hover_06.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\play_hover_06.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_12.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_12.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_slide_icon_11.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\slide_icon_11.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_splash_icon_03.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\splash_icon_03.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_category_2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\row_category_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_company_slider1.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\company_slider1.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_8.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_8.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_header_company_list_02.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\header_company_list_02.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_review_row.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\review_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_add_post2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\add_post2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_splash.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_show_route.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\show_route.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_hover_25.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_hover_25.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_back_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_back_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_icon_23.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_icon_23.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_post_hover_09.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\add_post_hover_09.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_review_icon_empty_07.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\review_icon_empty_07.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_tab_icons_06.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\tab_icons_06.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_contact_detail_icon_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\contact_detail_icon_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_home_btn_2.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\home_btn_2.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_map.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\activity_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\menu_home.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\menu\\home.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_store_06.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\store_06.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_icons_18.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\list_icons_18.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_inquiry_bg_05.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\inquiry_bg_05.png"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\layout_row_main_category.xml.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\layout\\row_main_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_bg.png.flat",
+        "source": "C:\\Users\\spider\\Desktop\\PROJECTS\\GITHUB COMMITS\\1\\Local Search Engine\\app\\src\\main\\res\\drawable-hdpi\\btn_bg.png"
+    }
+]

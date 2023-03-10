@@ -1,0 +1,460 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.tochy.magictrik"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:9:5-11:41
+8        android:minSdkVersion="14"
+8-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:10:9-35
+9        android:targetSdkVersion="28" />
+9-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:11:9-38
+10
+11    <uses-permission android:name="com.way.tilesstore.permission.MAPS_RECEIVE" />
+11-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:7:5-82
+11-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:7:22-79
+12
+13    <permission
+13-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:13:5-15:47
+14        android:name="com.tochy.tilesstore.permission.MAPS_RECEIVE"
+14-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:14:9-68
+15        android:protectionLevel="signature" />
+15-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:15:9-44
+16
+17    <uses-permission android:name="android.permission.INTERNET" />
+17-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:17:5-67
+17-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:17:22-64
+18    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+18-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:18:5-81
+18-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:18:22-78
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:19:5-79
+19-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:19:22-76
+20    <uses-permission android:name="com.android.vending.BILLING" />
+20-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:20:5-67
+20-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:20:22-64
+21    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+21-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:21:5-75
+21-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:21:22-72
+22    <uses-permission android:name="android.permission.WAKE_LOCK" />
+22-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:22:5-68
+22-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:22:22-65
+23    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+23-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:23:5-81
+23-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:23:22-78
+24    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+24-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:24:5-79
+24-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:24:22-76
+25    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+25-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:26:5-98
+25-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:26:22-95
+26
+27    <uses-feature
+27-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:29:5-31:35
+28        android:glEsVersion="0x00020000"
+28-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:30:9-41
+29        android:required="true" />
+29-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:31:9-32
+30
+31    <!-- Permissions required for GCM -->
+32    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+32-->[com.google.android.gms:play-services-gcm:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\a2c8f28c3d4f6900ca78488eaa9b81df\play-services-gcm-9.2.1\AndroidManifest.xml:21:5-82
+32-->[com.google.android.gms:play-services-gcm:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\a2c8f28c3d4f6900ca78488eaa9b81df\play-services-gcm-9.2.1\AndroidManifest.xml:21:22-79
+33
+34    <permission
+34-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:25:5-26:47
+35        android:name="com.tochy.magictrik.permission.C2D_MESSAGE"
+35-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:25:17-71
+36        android:protectionLevel="signature" />
+36-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:26:9-44
+37
+38    <uses-permission android:name="com.tochy.magictrik.permission.C2D_MESSAGE" />
+38-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:28:5-79
+38-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:28:22-76
+39
+40    <application
+40-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:33:5-127:19
+41        android:name="android.support.multidex.MultiDexApplication"
+42        android:allowBackup="true"
+42-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:37:9-35
+43        android:debuggable="true"
+44        android:icon="@drawable/ic_launcher"
+44-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:34:9-45
+45        android:label="@string/app_name"
+45-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:35:9-41
+46        android:testOnly="true"
+47        android:theme="@style/AppTheme" >
+47-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:36:9-40
+48        <meta-data
+48-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:38:9-40:71
+49            android:name="com.google.android.maps.v2.API_KEY"
+49-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:39:13-62
+50            android:value="AIzaSyBNpQaH0lqk5v3tiDdrOeAgjrVkpd8P2Q0" />
+50-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:40:13-68
+51        <meta-data
+51-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:41:9-43:69
+52            android:name="com.google.android.gms.version"
+52-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:42:13-58
+53            android:value="@integer/google_play_services_version" />
+53-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:43:13-66
+54
+55        <activity
+55-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:44:10-47:64
+56            android:name="com.google.android.gms.ads.AdActivity"
+56-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:45:13-65
+57            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+57-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:46:13-122
+58            android:theme="@android:style/Theme.Translucent" />
+58-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:47:13-61
+59        <activity
+59-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:50:9-54:20
+60            android:name="com.tochy.magictips.HomeActiviry"
+60-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:51:13-60
+61            android:label="@string/title_activity_home_activiry"
+61-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:52:13-65
+62            android:screenOrientation="portrait" >
+62-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:53:13-49
+63        </activity>
+64        <activity
+64-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:55:9-64:20
+65            android:name="com.tochy.magictips.Splash"
+65-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:56:13-54
+66            android:label="@string/title_activity_home_activiry"
+66-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:57:13-65
+67            android:screenOrientation="portrait" >
+67-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:58:13-49
+68            <intent-filter>
+68-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:59:13-63:29
+69                <action android:name="android.intent.action.MAIN" />
+69-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:60:17-69
+69-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:60:25-66
+70
+71                <category android:name="android.intent.category.LAUNCHER" />
+71-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:62:17-77
+71-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:62:27-74
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:65:9-69:20
+75            android:name="com.tochy.magictips.CompanyList"
+75-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:66:13-59
+76            android:label="@string/title_activity_company_list"
+76-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:67:13-64
+77            android:screenOrientation="portrait" >
+77-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:68:13-49
+78        </activity>
+79        <activity
+79-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:70:9-74:20
+80            android:name="com.tochy.magictips.CompanyDetails"
+80-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:71:13-62
+81            android:label="@string/title_activity_company_details"
+81-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:72:13-67
+82            android:screenOrientation="portrait" >
+82-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:73:13-49
+83        </activity>
+84        <activity
+84-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:75:9-79:20
+85            android:name="com.tochy.magictips.News"
+85-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:76:13-52
+86            android:label="@string/title_activity_company_details"
+86-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:77:13-67
+87            android:screenOrientation="portrait" >
+87-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:78:13-49
+88        </activity>
+89        <activity
+89-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:80:9-84:20
+90            android:name="com.tochy.magictips.NewsDetails"
+90-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:81:13-59
+91            android:label="@string/title_activity_company_details"
+91-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:82:13-67
+92            android:screenOrientation="portrait" >
+92-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:83:13-49
+93        </activity>
+94        <activity
+94-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:85:9-89:20
+95            android:name="com.tochy.magictips.Inquiry"
+95-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:86:13-55
+96            android:label="@string/title_activity_inquiry"
+96-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:87:13-59
+97            android:screenOrientation="portrait" >
+97-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:88:13-49
+98        </activity>
+99        <activity
+99-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:91:9-96:20
+100            android:name="com.tochy.magictips.CompanyMain"
+100-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:92:13-59
+101            android:label="@string/title_activity_company_main"
+101-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:93:13-64
+102            android:screenOrientation="portrait"
+102-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:94:13-49
+103            android:windowSoftInputMode="stateHidden" >
+103-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:95:13-54
+104        </activity>
+105        <activity
+105-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:97:9-100:20
+106            android:name="com.tochy.magictips.MapActivity"
+106-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:98:13-59
+107            android:label="@string/title_activity_map" >
+107-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:99:13-55
+108        </activity>
+109        <activity
+109-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:103:9-106:20
+110            android:name="com.tochy.magictips.About_TilesStore"
+110-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:104:13-64
+111            android:label="@string/title_activity_about__tiles_store" >
+111-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:105:13-70
+112        </activity>
+113        <activity
+113-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:107:9-110:20
+114            android:name="com.tochy.magictips.Categories"
+114-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:108:13-58
+115            android:label="@string/title_activity_categories" >
+115-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:109:13-62
+116        </activity>
+117        <activity
+117-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:111:9-114:20
+118            android:name="com.tochy.magictips.ShowRoute"
+118-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:112:13-57
+119            android:label="@string/title_activity_show_route" >
+119-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:113:13-62
+120        </activity>
+121        <activity
+121-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:115:9-118:20
+122            android:name="com.tochy.magictips.AddPost"
+122-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:116:13-55
+123            android:label="@string/title_activity_add_post" >
+123-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:117:13-60
+124        </activity>
+125        <activity
+125-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:119:9-122:20
+126            android:name="com.tochy.magictips.AddPost2"
+126-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:120:13-56
+127            android:label="@string/title_activity_add_post2" >
+127-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:121:13-61
+128        </activity>
+129        <activity
+129-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:123:9-126:20
+130            android:name="com.tochy.magictips.AddPost3"
+130-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:124:13-56
+131            android:label="@string/title_activity_add_post3" >
+131-->C:\Users\spider\Desktop\PROJECTS\GITHUB COMMITS\1\Local Search Engine\app\src\main\AndroidManifest.xml:125:13-61
+132        </activity>
+133        <activity
+133-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:21:9-29:20
+134            android:name="com.google.android.gms.appinvite.PreviewActivity"
+134-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:22:17-48
+135            android:exported="true"
+135-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:23:17-40
+136            android:theme="@style/Theme.AppInvite.Preview" >
+136-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:24:17-63
+137            <intent-filter>
+137-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:25:13-28:29
+138                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+138-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:26:17-89
+138-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:26:25-87
+139
+140                <category android:name="android.intent.category.DEFAULT" />
+140-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:27:17-75
+140-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:27:27-73
+141            </intent-filter>
+142        </activity>
+143        <activity
+143-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:21:9-24:46
+144            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+144-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:21:19-68
+145            android:excludeFromRecents="true"
+145-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:23:19-52
+146            android:exported="false"
+146-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:24:19-43
+147            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+147-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:22:19-78
+148        <!--
+149Service handling Google Sign-In user revocation. For apps that do not integrate with
+150            Google Sign-In, this service will never be started.
+151        -->
+152        <service
+152-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:28:9-31:110
+153            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+153-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:29:13-58
+154            android:exported="true"
+154-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:30:13-36
+155            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+155-->[com.google.android.gms:play-services-auth:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\54350db22bf718c484bf81d4ba6c81e5\play-services-auth-9.2.1\AndroidManifest.xml:31:13-107
+156
+157        <receiver android:name="com.google.android.gms.cast.framework.media.MediaIntentReceiver" />
+157-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:6:9-100
+157-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:6:19-97
+158
+159        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
+159-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:7:9-104
+159-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:7:18-101
+160        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
+160-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:8:9-92
+160-->[com.google.android.gms:play-services-cast-framework:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\993249b87915e4c64729f669e3f612dc\play-services-cast-framework-9.2.1\AndroidManifest.xml:8:18-90
+161        <service
+161-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:26:9-27:50
+162            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
+162-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:26:18-79
+163            android:process=":background_crash" />
+163-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:27:13-48
+164        <service
+164-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:29:9-30:50
+165            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
+165-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:29:18-77
+166            android:process=":background_crash" />
+166-->[com.google.firebase:firebase-crash:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\cd0b829115f6bd154207038d7349d55c\firebase-crash-9.2.1\AndroidManifest.xml:30:13-48
+167
+168        <activity
+168-->[com.google.android.gms:play-services-base:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\bd62e13f71a00e5158454f33883ae45b\play-services-base-9.2.1\AndroidManifest.xml:20:9-22:45
+169            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+169-->[com.google.android.gms:play-services-base:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\bd62e13f71a00e5158454f33883ae45b\play-services-base-9.2.1\AndroidManifest.xml:20:19-85
+170            android:exported="false"
+170-->[com.google.android.gms:play-services-base:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\bd62e13f71a00e5158454f33883ae45b\play-services-base-9.2.1\AndroidManifest.xml:22:19-43
+171            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+171-->[com.google.android.gms:play-services-base:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\bd62e13f71a00e5158454f33883ae45b\play-services-base-9.2.1\AndroidManifest.xml:21:19-78
+172        <activity
+172-->[com.google.android.gms:play-services-ads-lite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\983f578cd95c04184c0ebb5702c78f06\play-services-ads-lite-9.2.1\AndroidManifest.xml:30:9-31:52
+173            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+173-->[com.google.android.gms:play-services-ads-lite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\983f578cd95c04184c0ebb5702c78f06\play-services-ads-lite-9.2.1\AndroidManifest.xml:30:19-91
+174            android:theme="@style/Theme.IAPTheme" />
+174-->[com.google.android.gms:play-services-ads-lite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\983f578cd95c04184c0ebb5702c78f06\play-services-ads-lite-9.2.1\AndroidManifest.xml:31:13-50
+175        <!--
+176 FirebaseMessagingService performs security checks at runtime,
+177             no need for explicit permissions despite exported="true"
+178        -->
+179        <service
+179-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:24:9-30:19
+180            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+180-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:25:13-82
+181            android:exported="true" >
+181-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:26:13-36
+182            <intent-filter android:priority="-500" >
+182-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:27:13-29:29
+182-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:27:28-51
+183                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+183-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:28:17-78
+183-->[com.google.firebase:firebase-messaging:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\427dbeff9b6418894f00ad145069dcae\firebase-messaging-9.2.1\AndroidManifest.xml:28:25-75
+184            </intent-filter>
+185        </service>
+186        <service
+186-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:25:9-27:42
+187            android:name="com.google.android.gms.tagmanager.TagManagerService"
+187-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:25:18-84
+188            android:enabled="true"
+188-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:27:17-39
+189            android:exported="false" />
+189-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:26:17-41
+190
+191        <activity
+191-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:28:9-37:20
+192            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+192-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:29:13-87
+193            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+193-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:30:13-37
+194            <intent-filter>
+194-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:31:13-36:29
+195                <data android:scheme="tagmanager.c.com.tochy.magictrik" />
+195-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:32:17-72
+195-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:32:23-69
+196
+197                <action android:name="android.intent.action.VIEW" />
+197-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:33:17-69
+197-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:33:25-66
+198
+199                <category android:name="android.intent.category.DEFAULT" />
+199-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:27:17-75
+199-->[com.google.android.gms:play-services-appinvite:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\12a2676210563239993470305f2d8ccd\play-services-appinvite-9.2.1\AndroidManifest.xml:27:27-73
+200                <category android:name="android.intent.category.BROWSABLE" />
+200-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:35:17-77
+200-->[com.google.android.gms:play-services-tagmanager-api:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\880d47d2ba7bacdeb15a3ace25a495d4\play-services-tagmanager-api-9.2.1\AndroidManifest.xml:35:27-75
+201            </intent-filter>
+202        </activity>
+203
+204        <receiver
+204-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:28:7-34:18
+205            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+205-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:29:11-83
+206            android:enabled="true" >
+206-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:30:11-33
+207            <intent-filter>
+207-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:31:9-33:25
+208                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+208-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:32:11-77
+208-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:32:19-75
+209            </intent-filter>
+210        </receiver>
+211
+212        <service
+212-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:36:7-39:37
+213            android:name="com.google.android.gms.measurement.AppMeasurementService"
+213-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:37:11-82
+214            android:enabled="true"
+214-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:38:11-33
+215            android:exported="false" />
+215-->[com.google.firebase:firebase-analytics:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\7d4cd258fe691731389f2baaf6f410a9\firebase-analytics-9.2.1\AndroidManifest.xml:39:11-35
+216
+217        <receiver
+217-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:32:9-41:20
+218            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+218-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:33:13-78
+219            android:exported="true"
+219-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:34:13-36
+220            android:permission="com.google.android.c2dm.permission.SEND" >
+220-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:35:13-73
+221            <intent-filter>
+221-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:36:13-40:29
+222                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+222-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:37:17-81
+222-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:37:25-78
+223                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+223-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:38:17-86
+223-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:38:25-83
+224
+225                <category android:name="com.tochy.magictrik" />
+225-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:39:17-61
+225-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:39:27-58
+226            </intent-filter>
+227        </receiver>
+228        <!--
+229 Internal (not exported) receiver used by the app to start its own exported services
+230             without risk of being spoofed.
+231        -->
+232        <receiver
+232-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:45:9-47:40
+233            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+233-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:46:13-86
+234            android:exported="false" />
+234-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:47:13-37
+235        <!--
+236 FirebaseInstanceIdService performs security checks at runtime,
+237             no need for explicit permissions despite exported="true"
+238        -->
+239        <service
+239-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:51:9-57:19
+240            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+240-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:52:13-77
+241            android:exported="true" >
+241-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:53:13-36
+242            <intent-filter android:priority="-500" >
+242-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:54:13-56:29
+242-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:54:28-51
+243                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+243-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:55:17-80
+243-->[com.google.firebase:firebase-iid:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\4f79ae5c5036b330dc2a55b3a9abd0e9\firebase-iid-9.2.1\AndroidManifest.xml:55:25-77
+244            </intent-filter>
+245        </service>
+246
+247        <provider
+247-->[com.google.firebase:firebase-common:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\1b6be6969f0a95289133d6ecc22b96b9\firebase-common-9.2.1\AndroidManifest.xml:7:9-11:39
+248            android:name="com.google.firebase.provider.FirebaseInitProvider"
+248-->[com.google.firebase:firebase-common:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\1b6be6969f0a95289133d6ecc22b96b9\firebase-common-9.2.1\AndroidManifest.xml:9:13-58
+249            android:authorities="com.tochy.magictrik.firebaseinitprovider"
+249-->[com.google.firebase:firebase-common:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\1b6be6969f0a95289133d6ecc22b96b9\firebase-common-9.2.1\AndroidManifest.xml:8:13-72
+250            android:exported="false"
+250-->[com.google.firebase:firebase-common:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\1b6be6969f0a95289133d6ecc22b96b9\firebase-common-9.2.1\AndroidManifest.xml:10:13-37
+251            android:initOrder="100" />
+251-->[com.google.firebase:firebase-common:9.2.1] C:\Users\spider\Desktop\PROJECTS\ALL ANDRIOD PROJECT FOLDER\FOR PLAYSTORE\MAIN\PORTFOLIO APP (SPECAIL)\ADD ON'S\ImageViewer-master\caches\transforms-2\files-2.1\1b6be6969f0a95289133d6ecc22b96b9\firebase-common-9.2.1\AndroidManifest.xml:11:13-36
+252    </application>
+253
+254</manifest>
